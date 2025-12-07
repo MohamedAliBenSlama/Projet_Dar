@@ -65,5 +65,3 @@ DAR/
 - IDE recommandé : IntelliJ IDEA ou Eclipse
 - Serveur de messages JMS (ou simulation via `JMSProducer`)
 - ---
-│
-└─ pom.xml → POM parent multi-modules
